@@ -17,5 +17,5 @@ Ce projet est une application graphique en python permettant de gérer l'identif
 
 2. **Cloner le projet depuis GitHub** :
    ```bash
-   git clone <URL_du_projet>
-   cd <nom_du_répertoire>
+   git clone https://github.com/ilyesgueboul/formulaire
+   cd formulaire
