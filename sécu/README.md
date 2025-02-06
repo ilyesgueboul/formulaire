@@ -19,3 +19,7 @@ Ce projet est une application graphique en python permettant de gérer l'identif
    ```bash
    git clone https://github.com/ilyesgueboul/formulaire
    cd formulaire
+
+3. **lancer**
+   ```bash
+   python formulaire.py
